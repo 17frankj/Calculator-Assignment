@@ -1,6 +1,6 @@
 Hello!
 
-This is an example of 3 decently tricky methods methods I had to impliment for a Pitt Computer Science course, Data Structures and Algarithims 1. 
+3 methods I implimented for an early Pitt Computer Science course, Data Structures and Algarithims 1. 
 
 Add() -- This added two provided integers
 Subtract() -- This subtracts one integers from another
