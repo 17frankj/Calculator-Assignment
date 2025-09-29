@@ -7,5 +7,3 @@ Subtract() -- This subtracts one integers from another
 multiply() -- This multiplys two provided integers togther. 
 
 Both Test files are examples of these methods in action!
-
-I am very proud of my solutions here as they took many long nights and hours to fully think through and impliment correctly. 
